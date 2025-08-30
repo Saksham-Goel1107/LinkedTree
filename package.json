@@ -20,7 +20,7 @@
     "date-fns": "^2.30.0",
     "mongodb": "^6.2.0",
     "mongoose": "^8.9.5",
-    "next": "15.3.3",
+    "next": "15.5.2",
     "next-auth": "^4.24.11",
     "object-copy": "^1.0.0",
     "plain-object-clone": "^2.0.0",
